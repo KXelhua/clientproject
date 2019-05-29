@@ -1,3 +1,23 @@
 h1 {
-  color: fuchsia;
+  color:gold;
+  font-size: 48px;
+  text-align:center;
+}
+
+body {
+ background: url("https://wi-images.condecdn.net/image/doEYpG6Xd87/crop/2040/f/weather.jpg");
+ font-family: 'Permanent Marker', cursive;
+ background-size: cover;
+ 
+}
+
+#inputInfo{
+    display:flex;
+    justify-content:space-around;
+}
+
+p{
+ text-align:center;
+ font-family: cursive;
+ font-size:30px;
 }
